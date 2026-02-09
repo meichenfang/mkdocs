@@ -2,6 +2,8 @@
 
 Hi I am Meichen.
 
+![The ECRI banner](../docs/assets/ecri-banner.png)
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.

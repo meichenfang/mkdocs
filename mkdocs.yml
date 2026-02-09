@@ -1,2 +1,5 @@
-site_name: My Docs
-theme: material
+site_name: Meichen Personal Page
+theme: 
+  name: material
+  palette:
+    primary: grey
