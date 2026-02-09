@@ -2,7 +2,7 @@
 
 Click [**Use this template**](https://github.com/ImperialCollegeLondon/RCDS-mkdocs-material-template/generate) for the quickest method of getting started with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
-What's in this README?
+## What's in this README?
 
 A README is the starting point for anyone looking to learn more about a project on GitHub.
 The .md file format tells you that this file will be rendered in Markdown.
@@ -23,7 +23,7 @@ let's improve the aesthetics in this file. While editing, you can toggle into Pr
 <!-- Next up, headings. Add one or more hashtags before a line to make it a heading -->
 <!-- More hashtags mean a deeper level subheading. Make Getting Started a level 2 heading. -->
 
-Getting Started
+## Getting Started
 
 Important!!
 
